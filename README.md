@@ -9,5 +9,18 @@ Project for testing github features
 # adding second feature 
 
 # adding second feature 
+<<<<<<< HEAD
+
+=======
+<<<<<<< Updated upstream
+>>>>>>> 798ab74bde3e578dc684f3cbf08ab36cb900d860
+>>>>>>> 7dff28138952c89ec7a4faa384e74ccf071672a6
 
 
+# omar ahmed
+# rahma
+
+# yossef 
+
+
+# rahma
